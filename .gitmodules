@@ -1,0 +1,9 @@
+[submodule "Passwor_generators"]
+	path = Passwor_generators
+	url = https://github.com/Keeeichiii/Passwor_generator.git
+[submodule "path/to/Convert"]
+	path = path/to/Convert
+	url = https://github.com/Keeeichiii/Convert.git
+[submodule "Convert"]
+	path = Convert
+	url = https://github.com/Keeeichiii/Convert.git
